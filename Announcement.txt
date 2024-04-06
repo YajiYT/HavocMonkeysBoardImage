@@ -1,2 +1,7 @@
-DO NOT USE ATM HOTFIX
-COMING VERY SOON
+Do not use the ATM in shop,
+it will not give you any lab
+credits at the moment because
+the ATM is bugged, I'm currently
+working on fixing this issue
+
+- YajiFr
