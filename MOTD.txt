@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 Welcome to Havoc Monkeys V3!
 All the maps are new so to help you
 explore the map there's some arm 
 rockets just below this sign
 
 Enjoy - YajiFr
+=======
+Welcome to day 2 of Havoc Monkeys!
+Hope you enjoyed the game!
+Arm Rockets have been removed though :(
+>>>>>>> Stashed changes
